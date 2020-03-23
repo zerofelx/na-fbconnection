@@ -3,10 +3,10 @@
     background-color: rgba(0, 0, 0, 0.5);
     padding: 5px 20px;
     position: fixed;
-    right: 10px;
-    bottom: 10px;
+    left: 10px;
+    top: 10px;
     z-index: 1;
-    transform: translate(0, 120%);
+    transform: translate(0, -120%);
     transition: 2s transform;
 }
 
