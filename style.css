@@ -71,7 +71,7 @@ body {
     #content-responsive .exit {
         position: fixed;
         top: -26%;
-        right: 20px;
+        right: 10px;
     }
     #content {
         display: none;
